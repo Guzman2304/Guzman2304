@@ -50,9 +50,9 @@ Consulta mis repositorios para conocer más sobre mis trabajos y experimentos.
 ## 📫 Contacto
 
 - **GitHub:** [Guzman2304](https://github.com/Guzman2304)
-- **LinkedIn:** [www.linkedin.com/in/guzman-alexander-quintero-osorio-b753aa274]
+- **LinkedIn:** [Guzman Alexander Quintero Osorio](www.linkedin.com/in/guzman-alexander-quintero-osorio-b753aa274)
 - **Correo profesional:** [gquintero377@unab.edu.co]
-- **Hoja de vida:** [Agregar enlace al PDF cuando esté disponible]
+- **Hoja de vida:** [Holja de vida y certificados](https://github.com/Guzman2304/Diplomas-y-certificados)
 
 ---
 
